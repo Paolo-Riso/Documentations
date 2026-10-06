@@ -1,0 +1,63 @@
+.place-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10;
+    background-color: #bbeaee;
+}
+
+.place-image-icone{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10;
+    background-color: #d1f0f3;
+
+}
+
+.resize-image{
+    width: 10%;
+    height: 10%;
+}
+
+.fond{
+    background-color: rgb(166, 227, 227);
+}
+
+.bande{
+    background-color: rgb(63, 117, 101);
+    background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHIzaWd3cG5pZTdvYXZicTYzdHB6aHFtMTBzOTJzdGFvejM4bm9nciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mXpFZCVJeYTXW/giphy.gif);
+
+}
+
+}
+
+
+
+.block-info{
+    background-color: rgb(115, 216, 225);
+    width: 33%;
+}
+
+.box-tout{
+    background-color: rgb(115, 216, 225);
+    width: 67;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.titre{
+
+    flex-direction: row;
+
+}
+
+.text-color{
+
+    color: #d1f0f3;
+
+}
+

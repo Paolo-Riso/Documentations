@@ -1,0 +1,55 @@
+.top {
+    background-color: rgb(181, 181, 181);
+    height: 60px;
+}
+
+.ecriture {
+    color: aliceblue;
+}
+
+.recherche{
+    display: block;
+    margin-top: -2px;
+    margin-left: 85%;
+}
+
+.dispo{
+    display: flex;
+    flex-direction: row;
+    margin-inline: 2%;
+    gap: 15%;
+}
+
+.DispoText{
+    display: flex;
+    flex-direction: row;
+    margin-inline: 42%;
+    width: 50%;
+    height: 50%;
+    gap: 20px;
+}
+
+.images{
+    display: table-row;
+    row-gap: 20px;
+    height: 145px;
+    width: 200px;
+}
+
+footer{
+    background-color: rgb(181, 181, 181);
+    height: 60px;
+}
+
+h1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 300%;
+    font-family: 'Pacifico',cursive;
+    font-weight: bold;
+    margin-top: 40px;
+    color: rgb(49, 49, 49);
+
+}

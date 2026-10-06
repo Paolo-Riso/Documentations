@@ -1,0 +1,80 @@
+
+
+body{
+    background: fixed radial-gradient(circle, #0e022a 20%, #2e2087 100%);
+}
+
+
+@Font-face {
+  font-family: 'MaPolice';
+  src: url('Ethnocentric-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 500%;
+    font-family: Serif;
+    font-family: 'MaPolice', sans-serif;
+}
+
+h4{
+    color: aliceblue;
+    margin: 0;
+}
+
+p{
+    color: aliceblue;
+    margin: 0;
+}
+
+.image{
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+
+.centred-text{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 2%;
+}
+
+.resize-image{
+    width: 20%;
+    height: 20%;
+    border-radius: 10px;
+}
+
+
+footer{
+    margin-top: 5vw;
+}
+
+b{
+    color: aliceblue;
+    margin: 0;
+}
+
+.marge{
+    margin-top: 2%;
+}
+
+.video-bg {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto  ;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 50%;
+    height: 50%;
+    z-index: -1; 
+}
